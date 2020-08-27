@@ -1,11 +1,8 @@
 <h1>Hi, I'm Gustavo, a passionate person in Development and Technology</h1>
 
 <p align="center">
-<a href="https://instagram.com/gusta.vt" style="display: flex; align-items: center;">
-  <img src="https://image.flaticon.com/icons/svg/2111/2111463.svg" width="32" height="32" />
-  Instagram
-</a>
-<a href="https://www.linkedin.com/in/gustavo-juneo/"><img src="https://image.flaticon.com/icons/svg/145/145807.svg" width="32" height="32"/> Linkedin</a>
+<a href="https://instagram.com/gusta.vt"><img src="https://img.shields.io/badge/-gusta.vt-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gustavo-juneo/"><img src="http://img.shields.io/badge/-Gustavo%Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 </p>
 
