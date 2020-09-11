@@ -15,8 +15,10 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=SASS&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=474A8A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
