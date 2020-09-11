@@ -9,13 +9,14 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies.
+- 👨🏻‍📖 &nbsp; I am currently in the 4th period in Systems Analysis and Development.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=SASS&logoColor=1572B6)
+![SASS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=SASS&logoColor=CF649A)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=474A8A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
