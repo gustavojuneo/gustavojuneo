@@ -17,12 +17,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=474A8A)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
 
 <h3>⚙️ &nbsp;Back-end and database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=474A8A)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&)
 
