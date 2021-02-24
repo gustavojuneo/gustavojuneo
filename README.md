@@ -10,6 +10,7 @@
 
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies.
 - 📖 &nbsp; I am currently in the 5th period in Systems Analysis and Development.
+- :briefcase: &nbsp; I am currently looking for a job as a React web developer
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
