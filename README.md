@@ -1,4 +1,4 @@
-<h1>👋 &nbsp; Hi, I'm Gustavo, a person passionate about technology and development.</h1>
+<h1>👋 &nbsp; Hi, I'm Gustavo Juneo</h1>
 
 <p align="center">
 <a href="https://instagram.com/gusta.vt"><img src="https://img.shields.io/badge/-@gusta.vt-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -8,9 +8,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
+- :briefcase: &nbsp; I am currently looking for a job as a React web developer
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies.
 - 📖 &nbsp; I am currently in the 5th period in Systems Analysis and Development.
-- :briefcase: &nbsp; I am currently looking for a job as a React web developer
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -19,9 +19,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=SASS&logoColor=CF649A)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=474A8A)
+![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=1572B6)
-![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
 
