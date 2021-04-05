@@ -34,4 +34,4 @@
 
 <h2>🚀 &nbsp;A Little More About My Profile</h2>
 
-[![Gustavo Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavojuneo)](https://github.com/anuraghazra/github-readme-stats)
+[![Gustavo Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavojuneo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
