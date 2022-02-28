@@ -7,12 +7,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- 🔥 Junior Web & Mobile Developer
-- 🔭 I'am currently working at [Linear Sistemas](https://linearsistemas.com.br)
+- 🔥 &nbsp; Junior Web & Mobile Developer
+- 🔭 &nbsp; I'am currently working at [Linear Sistemas](https://linearsistemas.com.br)
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies
 - 📖 &nbsp; I have a degree in Systems Analysis and Development
-- 💬 Ask me about **Javascript, Typescript, HTML, CSS, ReactJS, React Native, Node.js**
-- ⚡ Fun fact **I'm volleyball player 🏐**
+- 💬 &nbsp; Ask me about **Javascript, Typescript, HTML, CSS, ReactJS, React Native, Node.js**
+- ⚡ &nbsp; Fun fact **I'm volleyball player 🏐**
 
 <br><br>
 
