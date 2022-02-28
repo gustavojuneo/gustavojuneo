@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/gustavo-juneo/"><img src="http://img.shields.io/badge/-Gustavo%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-## 👨🏻‍💻 &nbsp;About Me
-
 - 🔥 &nbsp; Junior Web & Mobile Developer
 - 🔭 &nbsp; I'am currently working at [Linear Sistemas](https://linearsistemas.com.br)
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies
