@@ -10,7 +10,7 @@
 
 - :briefcase: &nbsp; I am currently working as a Front-End React Developer at Linear Sistemas 
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies.
-- 📖 &nbsp; I am currently in the 5th period in Systems Analysis and Development.
+- 📖 &nbsp; I have a degree in Systems Analysis and Development.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
