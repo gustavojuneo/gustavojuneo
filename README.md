@@ -5,11 +5,11 @@
   <a href="https://www.linkedin.com/in/gustavo-juneo/"><img src="http://img.shields.io/badge/-Gustavo%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-- 🔥 &nbsp; Junior Web & Mobile Developer
+- 🔥 &nbsp; Mid Full Stack Developer
 - 🔭 &nbsp; I'am currently working at [Linear Sistemas](https://linearsistemas.com.br)
 - 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies
 - 📖 &nbsp; I have a degree in Systems Analysis and Development
-- 💬 &nbsp; Ask me about **Javascript, Typescript, HTML, CSS, ReactJS, React Native, Node.js**
+- 💬 &nbsp; Ask me about **Javascript, Typescript, HTML, CSS, ReactJS, React Native, Node.js, C#, .NetCore**
 - ⚡ &nbsp; Fun fact **I'm volleyball player 🏐**
 
 <br>
