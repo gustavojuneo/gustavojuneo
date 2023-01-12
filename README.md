@@ -33,10 +33,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <br>
-
-## 🚀 &nbsp;A Little More About My Profile
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gustavojuneo&show_icons=true&theme=vision-friendly-dark" alt="gustavojuneo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavojuneo&layout=compact&theme=vision-friendly-dark" alt="gustavojuneo's most languages"/>
-</p>
