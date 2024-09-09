@@ -6,30 +6,18 @@
 </p>
 
 - 🔥 &nbsp; Mid Full Stack Developer
-- 🔭 &nbsp; I'am currently working at [Linear Sistemas](https://linearsistemas.com.br)
-- 👨🏻‍💻 &nbsp; I started coding when I was 9 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies
-- 📖 &nbsp; I have a degree in Systems Analysis and Development
-- 💬 &nbsp; Ask me about **Javascript, Typescript, HTML, CSS, ReactJS, React Native, Node.js, C#, .NetCore**
-- ⚡ &nbsp; Fun fact **I'm volleyball player 🏐**
+- 🔭 &nbsp; I'm working at [Linear Sistemas](https://linearsistemas.com.br)
+- 👨🏻‍💻 &nbsp; I started coding when I was 12 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies
+- 📖 &nbsp; I'm specialized on Software Engineer by Puc Minas.
+- 💬 &nbsp; Ask me about **Javascript, Typescript, HTML, CSS, ReactJS, React Native, Node.js, C#, .NetCore, GoLang**
+- ⚡ &nbsp; Fun fact **I'm volleyball player and Swimmer 🏐**
 
 <br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=SASS&logoColor=CF649A)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=474A8A)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=474A8A)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+|FrontEnd|Mobile|BackEnd|
+|--|--| --|
+|![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=CF649A)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;![.Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte&logoColor=FF3E00)&nbsp;![.Astro](https://img.shields.io/badge/-Astro-05122A?style=flat&logo=astro&logoColor=BC52EE)|![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;|![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&)&nbsp;![GoLang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=go&logoColor=00ADD8)&nbsp;![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;|
+ 
 <br>
