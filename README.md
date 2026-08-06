@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/gustavo-juneo/"><img src="http://img.shields.io/badge/-Gustavo%20Santos-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-- 🔥 &nbsp; Mid Full Stack Developer
+- 🔥 &nbsp; Senior Full Stack Developer
 - 🔭 &nbsp; I'm working at [Linear Sistemas](https://linearsistemas.com.br)
 - 👨🏻‍💻 &nbsp; I started coding when I was 12 years old, where I wanted to make a game website and since then it has become my profession, looking for more and more knowledge and learn about new technologies
 - 📖 &nbsp; I'm specialized on Software Engineer by Puc Minas.
